@@ -1,7 +1,8 @@
 
 # Created by https://www.gitignore.io/api/osx,vim,python
 
-venv
+venv/
+output/
 
 ### OSX ###
 *.DS_Store
